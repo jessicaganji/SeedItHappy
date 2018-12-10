@@ -1,0 +1,50 @@
+body {
+  background-color: #E7E2D7;
+  text-align: left;
+  margin: 50px;
+}
+
+h1 {
+  color: #064d24;
+  font-family: 'Lora', serif;
+}
+
+h2 {
+  color: #41864A;
+  font-family: 'Lora', serif;
+}
+
+h3 {
+  color: #BE6125;
+  font-family: 'Lora', serif;
+}
+
+h4 {
+  color: #d06d28;
+  font-family: 'Lora', serif;
+}
+
+h5 {
+  color: #f3c767;
+  font-family: 'Lora', serif;
+}
+
+p {
+  color: #333;
+  font-family: 'Karla', sans-serif;
+  font-size: 16px;
+}
+
+a {
+  color: #d06d28;
+  text-decoration: none;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
